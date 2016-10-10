@@ -2,7 +2,7 @@
 
 Thank you for helping FrSky X12S HORUS to be better! Here FrSky could solicit input and suggestion from all the end users on the system operation. The goal of this program is to find issues/bugs that can be corrected during the program resulting in very well tested and refined production systems. 
 
-Please keep the GitHub section focused on reporting issues/bugs/improvement suggestions . We will add a priority label on each 
+Please keep the GitHub section focused on reporting issues/bugs. We will add a priority label on each 
 and we may not reply on every issue in the first time but we are sure to take care of them. When the problem is resolved, we 
 ask of you to double check and close the issue. Always check if the issue has already existed on GitHub, in order to prevent 
 double posting. Well described bug description is very important for us to try to reproduce it and fix well. 
