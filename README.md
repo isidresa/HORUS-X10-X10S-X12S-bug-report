@@ -1,6 +1,6 @@
 # X12S BUG/ISSUES REPORT
 
-Thank you for helping FrSky X12S HORUS to be better! Here FrSky could solicit input and suggestion from all the end users on the system operation. The goal of this program is to find issues/bugs that can be corrected during the program resulting in very well tested and refined production systems. 
+Thank you for helping FrSky X12S HORUS to be better! Here FrSky could solicit input and suggestion from all the end users on the system operation. The goal of this program is to find issues/bugs that can be corrected in further software updates.
 
 Please keep the GitHub section focused on reporting issues/bugs. We will add a priority label on each 
 and we may not reply on every issue in the first time but we are sure to take care of them. When the problem is resolved, we 
@@ -10,7 +10,7 @@ double posting. Well described bug description is very important for us to try t
 The HORUS manual, production firmware and beta firmware(not fully tested version) can be downloaded from download zone 
 of Horus on FrSky website: www.frsky-rc.com .Please check the latest firmwares and be careful when you test the Beta versions (not 
 fully tested) that we are appreciated a lot.
-If you have any other confusions other than the issues about Horus you can mail us eva@frsky-rc.com . 
+If you have any other confusions other than the issues about Horus you can mail us frsky@frsky-rc.com . 
 Thanks a lot for your participation in advance.
 
 Below are some notes to help you report issues/bugs or improvement suggestions. 
