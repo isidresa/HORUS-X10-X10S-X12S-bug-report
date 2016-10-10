@@ -32,25 +32,6 @@ Below are some notes to help you report issues/bugs or improvement suggestions.
 * [Suggetions] - improvement suggestions about HORUS
 * [Need more data] - that we need some more information to reproduce it
 
- are some notes to help you report issues/bugs or improvement suggestions. 
-### Issue guides
-* Please make sure that you have upgraded to latest software version before you post an issue. 
-* If you find a new bug, first please look at opened and closed issues to see if the issue is already listed.
-* If it does exist you can comment if you have more information. 
-* If does not exist, them create a new issue. 
-### New issue should contain:
-* Firmware version where issue was found, name the topic to describe the bug the best as possible 
-* Description of the issue 
-* Description of the expected behavior
-* Description how to reproduce the bug
-* If possible a screenshot, it is worth 1000 words :) 
-### Topic naming:
-* [Hardware] - related to issues or ideas with HW (only about production radios please)
-* [OS XX.XX] - related to issue or ideas with Horus OS version XX.XX you can find at screen INFO in SYSTEM
-* [GUI Design] - GUI design related issue / ideas
-* [Suggetions] - improvement suggestions about HORUS
-* [Need more data] - that we need some more information to reproduce it
-
 ### Labels:
 * We will review bugs and mark the bugs by labels 
 * [Bug critical] - highest priority, life critical 
