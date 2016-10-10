@@ -6,9 +6,12 @@ Please keep the GitHub section focused on reporting issues/bugs. We will add a p
 and we may not reply on every issue in the first time but we are sure to take care of them. When the problem is resolved, we 
 ask of you to double check and close the issue. Always check if the issue has already existed on GitHub, in order to prevent 
 double posting. Well described bug description is very important for us to try to reproduce it and fix well. 
-The HORUS manual and production firmware and the beta firmware(not fully tested version) can be downloaded from download zone 
-of Horus of our website www.frsky-rc.com .Please check the latest firmwares and be careful when you test the Beta versions (not 
-fully tested) that we are appreciated a lot.If you have any other confusions other than the issues about Horus you can mail us eva@frsky-rc.com . Thanks a lot for your participation.
+
+The HORUS manual, production firmware and beta firmware(not fully tested version) can be downloaded from download zone 
+of Horus on FrSky website: www.frsky-rc.com .Please check the latest firmwares and be careful when you test the Beta versions (not 
+fully tested) that we are appreciated a lot.
+If you have any other confusions other than the issues about Horus you can mail us eva@frsky-rc.com . 
+Thanks a lot for your participation in advance.
 
 Below are some notes to help you report issues/bugs or improvement suggestions. 
 
