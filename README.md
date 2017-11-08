@@ -1,6 +1,6 @@
-# X12S BUG/ISSUES REPORT
+# HORUS X10/X10S/X12S BUG/ISSUES REPORT
 
-Thank you for helping FrSky X12S HORUS to be better! Here FrSky could solicit input and suggestion from all the end users on the system operation. The goal of this program is to find issues/bugs that can be corrected in further software updates.
+Thank you for helping FrSky HORUS to be better! Here FrSky could solicit input and suggestion from all the end users on the system operation. The goal of this program is to find issues/bugs that can be corrected in further software updates.
 
 Please keep the GitHub section focused on reporting issues/bugs. We will add a priority label on each 
 and we may not reply on every issue in the first time but we are sure to take care of them. When the problem is resolved, we 
