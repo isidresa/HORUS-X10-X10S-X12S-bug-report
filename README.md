@@ -19,10 +19,10 @@ Below are some notes to help you report issues/bugs or improvement suggestions.
 * Please make sure that you have upgraded to latest software version before you post an issue. 
 * If you find a new bug, first please look at opened and closed issues to see if the issue is already listed.
 * If it does exist you can comment if you have more information. 
-* If does not exist, them create a new issue. 
+* If does not exist, then create a new issue. 
 
 ### New issue should contain:
-* Firmware version where issue was found, name the topic to describe the bug the best as possible 
+* Firmware version where issue was found, name the topic to describe the bug as the best as possible 
 * Description of the issue 
 * Description of the expected behavior
 * Description how to reproduce the bug
@@ -42,3 +42,6 @@ Below are some notes to help you report issues/bugs or improvement suggestions.
 * [Enhancement] - improvement, new ideas...
 * [Duplicate] - there is already other same issue and we will link it to the one already posted and close it.
 * [Need more data] - that we need some more information to reproduce it
+
+Thanks again for your reading and helps on the system.
+We hope it will become good enough to fulfill your demands.
