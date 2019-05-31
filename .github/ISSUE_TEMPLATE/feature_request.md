@@ -1,11 +1,13 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for this project to make HORUS even better
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+*Before suggesting a new feature here, please search the open issue if there is already a request for the feature*
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]

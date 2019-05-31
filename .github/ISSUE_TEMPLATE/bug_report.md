@@ -1,11 +1,13 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help the Frsky team to improve HORUS
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+*Before submitting,  search the open issue if there is already a report of the bug*
 
 **Describe the bug**
 A clear and concise description of what the bug is.
